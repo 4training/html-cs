@@ -1,0 +1,69 @@
+{
+    "language_code": "cs",
+    "english_name": "Czech",
+    "worksheets": [
+        {
+            "page": "God's_Story_(five_fingers)",
+            "title": "Bo\u017e\u00ed p\u0159\u00edb\u011bh (p\u011bt prst\u016f)",
+            "filename": "Bo\u017e\u00ed_p\u0159\u00edb\u011bh_(p\u011bt_prst\u016f).html",
+            "version": "2.1",
+            "pdf": "Bo\u017e\u00ed_p\u0159\u00edb\u011bh_(p\u011bt_prst\u016f).pdf"
+        },
+        {
+            "page": "Baptism",
+            "title": "K\u0159est pono\u0159en\u00edm",
+            "filename": "K\u0159est_pono\u0159en\u00edm.html",
+            "version": "2.1",
+            "pdf": "K\u0159est_pono\u0159en\u00edm.pdf"
+        },
+        {
+            "page": "Forgiving_Step_by_Step",
+            "title": "Odpu\u0161t\u011bn\u00ed krok za krokem",
+            "filename": "Odpu\u0161t\u011bn\u00ed_krok_za_krokem.html",
+            "version": "1.1",
+            "pdf": "Odpu\u0161t\u011bn\u00ed_krok_za_krokem.pdf"
+        },
+        {
+            "page": "Time_with_God",
+            "title": "\u010cas s Bohem",
+            "filename": "\u010cas_s_Bohem.html",
+            "version": "1.2",
+            "pdf": "\u010cas_s_Bohem.pdf"
+        },
+        {
+            "page": "Hearing_from_God",
+            "title": "Jak sly\u0161et Bo\u017e\u00ed hlas",
+            "filename": "Jak_sly\u0161et_Bo\u017e\u00ed_hlas.html",
+            "version": "1.1",
+            "pdf": "Jak_sly\u0161et_Bo\u017e\u00ed_hlas.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints",
+            "title": "Rady jak \u010d\u00edst Bibli",
+            "filename": "Rady_jak_\u010d\u00edst_Bibli.html",
+            "version": "2.0",
+            "pdf": "Rady_jak_\u010d\u00edst_Bibli.pdf"
+        },
+        {
+            "page": "Bible_Reading_Hints_(Seven_Stories_full_of_Hope)",
+            "title": "Rady jak \u010d\u00edst Bibli (Sedm p\u0159\u00edb\u011bh\u016f pln\u00fdch nad\u011bje)",
+            "filename": "Rady_jak_\u010d\u00edst_Bibli_(Sedm_p\u0159\u00edb\u011bh\u016f_pln\u00fdch_nad\u011bje).html",
+            "version": "2.0",
+            "pdf": "Rady_jak_\u010d\u00edst_Bibli_(Sedm_p\u0159\u00edb\u011bh\u016f_pln\u00fdch_nad\u011bje).pdf"
+        },
+        {
+            "page": "The_Three-Thirds_Process",
+            "title": "T\u0159\u00ed-t\u0159etinov\u00fd proces",
+            "filename": "T\u0159\u00ed-t\u0159etinov\u00fd_proces.html",
+            "version": "1.0b",
+            "pdf": "T\u0159\u00ed-t\u0159etinov\u00fd_proces.pdf"
+        },
+        {
+            "page": "A_Daily_Prayer",
+            "title": "Ka\u017edodenn\u00ed modlitba",
+            "filename": "Ka\u017edodenn\u00ed_modlitba.html",
+            "version": "1.0",
+            "pdf": "Ka\u017edodenn\u00ed_modlitba.pdf"
+        }
+    ]
+}
